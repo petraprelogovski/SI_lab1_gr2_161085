@@ -2,6 +2,7 @@ class Student {
 	String index;
 	String firstName;
 	String lastName;
+	List<Integer> grades = new Arraylist();
 
 	//TODO constructor
 
